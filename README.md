@@ -43,12 +43,44 @@ Desenvolvedor apaixonado por tecnologia e inovação. Transformando ideias em so
 ## 🔥 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/le0nardomartins/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=le0nardomartins&repo=projeto1&theme=dark" />
-  </a>
-  <a href="https://github.com/le0nardomartins/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=le0nardomartins&repo=projeto2&theme=dark" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/le0nardomartins/projeto1">
+          <strong>💼 Projeto 1</strong>
+          <br />
+          <br />
+          Sistema de gerenciamento desenvolvido com React e Node.js
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/le0nardomartins/projeto2">
+          <strong>🌐 Projeto 2</strong>
+          <br />
+          <br />
+          API RESTful com Express e PostgreSQL
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/le0nardomartins/projeto3">
+          <strong>📱 Projeto 3</strong>
+          <br />
+          <br />
+          Aplicativo mobile com React Native
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/le0nardomartins/projeto4">
+          <strong>🤖 Projeto 4</strong>
+          <br />
+          <br />
+          Sistema de automação com Python
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
