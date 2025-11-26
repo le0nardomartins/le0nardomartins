@@ -69,7 +69,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
 </div>
 
@@ -100,13 +100,13 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=FF6B00&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=3&rank=SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
   
 </div>
 
