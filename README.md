@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b84fa,100:2d2d2d&height=200&section=header&text=Leonardo%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Leonardo+Martins" alt="Leonardo Martins" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=150&section=header&fontSize=0&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B84FA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Game+Developer+%F0%9F%8E%AE;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Game+Developer+%F0%9F%8E%AE;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,9 +13,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=le0nardomartins&color=5b84fa&style=for-the-badge&label=VISUALIZAÇÕES)
-![GitHub Followers](https://img.shields.io/github/followers/le0nardomartins?color=5b84fa&label=SEGUIDORES&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/le0nardomartins?color=5b84fa&label=ESTRELAS&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=le0nardomartins&color=00d4ff&style=for-the-badge&label=VISUALIZAÇÕES)
+![GitHub Followers](https://img.shields.io/github/followers/le0nardomartins?color=00ff88&label=SEGUIDORES&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/le0nardomartins?color=00d4ff&label=ESTRELAS&style=for-the-badge)
 
 </div>
 
@@ -36,7 +37,13 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 ### 🎯 Alon MindForge
 
-<iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=0d1117&amp;link_color=5b84fa&amp;border_color=30363d&amp;fg_color=c9d1d9" width="552" height="167"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
+<a href="https://codenate.itch.io/alon-mindforge" target="_blank">
+  <img src="https://img.shields.io/badge/🎮%20Jogar%20Alon%20MindForge-FF6B6B?style=for-the-badge&logo=itch.io&logoColor=white" alt="Alon MindForge" />
+</a>
+
+<br/><br/>
+
+<iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=0d1117&amp;link_color=00d4ff&amp;border_color=30363d&amp;fg_color=c9d1d9" width="552" height="167"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
 
 </div>
 
@@ -94,21 +101,19 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=5b84fa&icon_color=5b84fa&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0nardomartins&layout=compact&theme=dark&bg_color=0d1117&title_color=5b84fa&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Estatísticas do GitHub" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=5b84fa&fire=5b84fa&currStreakLabel=5b84fa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=3&rank=SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
   
 </div>
 
@@ -118,7 +123,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=le0nardomartins&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=5b84fa&point=c9d1d9&area=true&hide_border=true" alt="Gráfico de contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=le0nardomartins&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=00ff88&area=true&hide_border=true" alt="Gráfico de contribuições" />
   
 </div>
 
@@ -129,7 +134,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 <div align="center">
   
   <a href="https://www.leonardomartins.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-5b84fa?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   
   <a href="https://codenate.itch.io/" target="_blank">
@@ -150,8 +155,8 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b84fa,100:2d2d2d&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=100&section=footer&fontSize=0&animation=twinkling"/>
   
-  <p>⭐ Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios! ⭐</p>
+  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">⭐ Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios! ⭐</p>
   
 </div>
