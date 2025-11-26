@@ -34,13 +34,9 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
 
-<a href="https://codenate.itch.io/alon-mindforge" target="_blank">
-  <img src="https://img.shields.io/badge/🎮%20Alon%20MindForge-4863d2?style=for-the-badge&logo=itch.io&logoColor=white" alt="Alon MindForge" />
+<a href="https://codenate.itch.io/alon-mindforge" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.itch.zone/aW1hZ2UvNDAzNDQ0OS8yNDA1MzgyNy5wbmc=/original/e%2Fu9UD.png" alt="Alon MindForge" style="width: 300px; border-radius: 15px; border: 3px solid #2d2d2d; padding: 8px; background-color: #1a1a1a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.2s;" />
 </a>
-
-<br/>
-
-<iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=2d2d2d&amp;link_color=4863d2&amp;border_color=2d2d2d" width="206" height="165"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
 
 </div>
 
@@ -130,19 +126,19 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <a href="https://www.leonardomartins.dev/" target="_blank">
+  <a href="https://www.leonardomartins.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   
-  <a href="https://codenate.itch.io/" target="_blank">
+  <a href="https://codenate.itch.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
   </a>
   
-  <a href="https://www.linkedin.com/in/leonardomartinscunha/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardomartinscunha/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="https://github.com/le0nardomartins" target="_blank">
+  <a href="https://github.com/le0nardomartins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
