@@ -35,7 +35,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 <div align="center">
 
 <a href="https://codenate.itch.io/alon-mindforge" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.itch.zone/aW1hZ2UvNDAzNDQ0OS8yNDA1MzgyNy5wbmc=/original/e%2Fu9UD.png" alt="Alon MindForge" style="width: 300px; border-radius: 15px; border: 3px solid #2d2d2d; padding: 8px; background-color: #1a1a1a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.2s;" />
+  <img src="assets/1.jpg" alt="Alon MindForge" style="width: 300px; border-radius: 15px; border: 3px solid #2d2d2d; padding: 8px; background-color: #1a1a1a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.2s;" />
 </a>
 
 </div>
@@ -94,7 +94,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Estatísticas do GitHub" />
   
 </div>
 
@@ -106,7 +106,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=3&rank=SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=le0nardomartins&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
   
 </div>
 
