@@ -34,6 +34,12 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
 
+<a href="https://codenate.itch.io/alon-mindforge" target="_blank">
+  <img src="https://img.shields.io/badge/🎮%20Alon%20MindForge-4863d2?style=for-the-badge&logo=itch.io&logoColor=white" alt="Alon MindForge" />
+</a>
+
+<br/>
+
 <iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=2d2d2d&amp;link_color=4863d2&amp;border_color=2d2d2d" width="206" height="165"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
 
 </div>
@@ -92,7 +98,11 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+</div>
+
+<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
   
@@ -142,8 +152,8 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
+  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios!</p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=100&section=footer&fontSize=0&animation=twinkling"/>
-  
-  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">⭐ Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios! ⭐</p>
   
 </div>
