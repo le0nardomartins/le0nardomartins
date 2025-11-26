@@ -100,7 +100,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=FF6B00&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=FF4500&fire=FF6B00&currStreakLabel=FF4500&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
   
 </div>
 
