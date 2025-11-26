@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Leonardo+Martins" alt="Leonardo Martins" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=150&section=header&fontSize=0&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=200&section=header&text=Leonardo%20Martins&fontSize=42&fontColor=fff&fontAlignY=32&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -35,15 +34,7 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 
 <div align="center">
 
-### 🎯 Alon MindForge
-
-<a href="https://codenate.itch.io/alon-mindforge" target="_blank">
-  <img src="https://img.shields.io/badge/🎮%20Jogar%20Alon%20MindForge-FF6B6B?style=for-the-badge&logo=itch.io&logoColor=white" alt="Alon MindForge" />
-</a>
-
-<br/><br/>
-
-<iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=0d1117&amp;link_color=00d4ff&amp;border_color=30363d&amp;fg_color=c9d1d9" width="552" height="167"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/4034449?linkback=true&amp;border_width=0&amp;bg_color=2d2d2d&amp;link_color=4863d2&amp;border_color=2d2d2d" width="206" height="165"><a href="https://codenate.itch.io/alon-mindforge">Alon MindForge by CodeNate</a></iframe>
 
 </div>
 
@@ -102,10 +93,6 @@ Minha paixão por tecnologia me motiva a estar sempre aprendendo e explorando no
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le0nardomartins&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Estatísticas do GitHub" />
-  
-</div>
-
-<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0nardomartins&theme=dark&background=0d1117&border=30363d&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
   
