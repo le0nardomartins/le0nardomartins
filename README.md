@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Construindo+Solu%C3%A7%C3%B5es+Web+Modernas" alt="Typing SVG" />
 </div>
 
 ---
 
-## Professional Profile
+## Perfil Profissional
 
 <div align="center">
 
@@ -20,62 +20,62 @@
 
 <div align="justify">
 
-I'm **Leonardo Martins**, a **Full Stack Developer** focused on building modern, scalable, and outcome-driven digital solutions.
+Sou **Leonardo Martins**, **Desenvolvedor Full Stack** focado em construir soluções digitais modernas, escaláveis e orientadas a resultados.
 
-I design and develop web applications with solid architecture, clean code, and strong attention to user experience. I work across frontend and backend, delivering reliable, maintainable, and performance-oriented products.
+Projeto e desenvolvo aplicações web com arquitetura sólida, código limpo e forte atenção à experiência do usuário. Trabalho em frontend e backend, entregando produtos confiáveis, manuteníveis e orientados a performance.
 
-I bring a continuous improvement mindset, clear communication, and effective collaboration with multidisciplinary teams. I value ownership, autonomy, and consistent delivery, always aiming for both technical and business impact.
-
-</div>
-
----
-
-## What I Bring to a Team
-
-<div align="justify">
-
-- **Ownership mindset:** commitment to quality, deadlines, and continuous product evolution.
-- **Strong communication:** clear alignment with engineering, product, and stakeholders.
-- **Business-oriented thinking:** focus on practical solutions that solve real problems.
-- **Continuous growth:** consistent learning of technologies, patterns, and engineering practices.
-- **Professional collaboration:** proactive, respectful, and team-first attitude.
+Trazendo mentalidade de melhoria contínua, comunicação clara e colaboração efetiva com times multidisciplinares. Valorizo responsabilidade, autonomia e entrega consistente, sempre visando impacto técnico e de negócio.
 
 </div>
 
 ---
 
-## Featured Projects
+## O que Levo para o Time
 
 <div align="justify">
 
-### Portfolio Website
-Modern and responsive portfolio website showcasing my projects and skills. Built with clean architecture, smooth animations, and optimized performance.
+- **Mentalidade de dono:** comprometimento com qualidade, prazos e evolução contínua do produto.
+- **Comunicação forte:** alinhamento claro com engenharia, produto e stakeholders.
+- **Pensamento orientado a negócio:** foco em soluções práticas que resolvem problemas reais.
+- **Crescimento contínuo:** aprendizado consistente de tecnologias, padrões e práticas de engenharia.
+- **Colaboração profissional:** atitude proativa, respeitosa e com foco no time.
 
-**Tech Stack:** React • TypeScript • CSS3 • Responsive Design  
+</div>
+
+---
+
+## Projetos em Destaque
+
+<div align="justify">
+
+### Site de Portfólio
+Site de portfólio moderno e responsivo que apresenta meus projetos e habilidades. Construído com arquitetura limpa, animações suaves e performance otimizada.
+
+**Stack Tecnológica:** React • TypeScript • CSS3 • Design Responsivo  
 **Live:** [leonardomartins.dev](https://www.leonardomartins.dev/)  
-**Repo:** [GitHub](https://github.com/le0nardomartins)
+**Repositório:** [GitHub](https://github.com/le0nardomartins)
 
 ---
 
-### Full Stack Web Application
-Complete web application with frontend and backend integration. Features user authentication, database management, and RESTful API architecture.
+### Aplicação Web Full Stack
+Aplicação web completa com integração de frontend e backend. Possui autenticação de usuários, gerenciamento de banco de dados e arquitetura RESTful API.
 
-**Tech Stack:** React • Node.js • PostgreSQL • Docker • REST APIs  
-**Status:** In Development
+**Stack Tecnológica:** React • Node.js • PostgreSQL • Docker • REST APIs  
+**Status:** Em Desenvolvimento
 
 ---
 
-### Modern Web Solution
-Scalable web solution demonstrating best practices in code organization, performance optimization, and user experience design.
+### Solução Web Moderna
+Solução web escalável demonstrando melhores práticas em organização de código, otimização de performance e design de experiência do usuário.
 
-**Tech Stack:** TypeScript • React • Node.js • MySQL • Git  
-**Status:** Completed
+**Stack Tecnológica:** TypeScript • React • Node.js • MySQL • Git  
+**Status:** Concluído
 
 </div>
 
 ---
 
-## Technologies & Tools
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
@@ -93,7 +93,7 @@ Scalable web solution demonstrating best practices in code organization, perform
 
 ---
 
-## Contributions
+## Contribuições
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Scalable web solution demonstrating best practices in code organization, perform
 
 ---
 
-## Connect with Me
+## Conecte-se Comigo
 
 <div align="center">
 
@@ -127,11 +127,11 @@ Scalable web solution demonstrating best practices in code organization, perform
 
 ---
 
-## Professional Goal
+## Objetivo Profissional
 
 <div align="justify">
 
-I'm seeking opportunities as a **Full Stack Developer**, contributing technical excellence, product mindset, and collaborative execution to build robust and high-impact digital solutions.
+Busco oportunidades como **Desenvolvedor Full Stack**, contribuindo com excelência técnica, mentalidade de produto e execução colaborativa para construir soluções digitais robustas e de alto impacto.
 
 </div>
 
@@ -139,7 +139,7 @@ I'm seeking opportunities as a **Full Stack Developer**, contributing technical 
 
 <div align="center">
 
-  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">Thanks for visiting my profile. If my background matches your team needs, let's connect.</p>
+  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">Obrigado por visitar meu perfil. Se meu perfil corresponde às necessidades da sua equipe, vamos conversar.</p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=100&section=footer&fontSize=0&animation=twinkling"/>
 
