@@ -48,27 +48,19 @@ Trazendo mentalidade de melhoria contínua, comunicação clara e colaboração 
 
 <div align="justify">
 
-### Site de Portfólio
-Site de portfólio moderno e responsivo que apresenta meus projetos e habilidades. Construído com arquitetura limpa, animações suaves e performance otimizada.
+### Assistente Lumina
+Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho. Sistema completo para análise e prevenção de acidentes, oferecendo insights inteligentes e recomendações para melhorar a segurança no ambiente de trabalho.
 
-**Stack Tecnológica:** React • TypeScript • CSS3 • Design Responsivo  
-**Live:** [leonardomartins.dev](https://www.leonardomartins.dev/)  
-**Repositório:** [GitHub](https://github.com/le0nardomartins)
-
----
-
-### Aplicação Web Full Stack
-Aplicação web completa com integração de frontend e backend. Possui autenticação de usuários, gerenciamento de banco de dados e arquitetura RESTful API.
-
-**Stack Tecnológica:** React • Node.js • PostgreSQL • Docker • REST APIs  
-**Status:** Em Desenvolvimento
+**Stack Tecnológica:** IA • Machine Learning • Backend • Banco de Dados  
+**Status:** Em Produção
 
 ---
 
-### Solução Web Moderna
-Solução web escalável demonstrando melhores práticas em organização de código, otimização de performance e design de experiência do usuário.
+### MaisUm
+Aplicativo desenvolvido para um cliente pela minha agência de código **SnowDive**. Plataforma para pessoas se encontrarem e praticarem esportes, conectando atletas e entusiastas de atividades físicas.
 
-**Stack Tecnológica:** TypeScript • React • Node.js • MySQL • Git  
+**Stack Tecnológica:** Mobile • Backend • API • Banco de Dados  
+**Desenvolvido por:** SnowDive  
 **Status:** Concluído
 
 </div>
