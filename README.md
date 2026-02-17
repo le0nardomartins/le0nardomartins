@@ -44,6 +44,37 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
+## Featured Projects
+
+<div align="justify">
+
+### Portfolio Website
+Modern and responsive portfolio website showcasing my projects and skills. Built with clean architecture, smooth animations, and optimized performance.
+
+**Tech Stack:** React • TypeScript • CSS3 • Responsive Design  
+**Live:** [leonardomartins.dev](https://www.leonardomartins.dev/)  
+**Repo:** [GitHub](https://github.com/le0nardomartins)
+
+---
+
+### Full Stack Web Application
+Complete web application with frontend and backend integration. Features user authentication, database management, and RESTful API architecture.
+
+**Tech Stack:** React • Node.js • PostgreSQL • Docker • REST APIs  
+**Status:** In Development
+
+---
+
+### Modern Web Solution
+Scalable web solution demonstrating best practices in code organization, performance optimization, and user experience design.
+
+**Tech Stack:** TypeScript • React • Node.js • MySQL • Git  
+**Status:** Completed
+
+</div>
+
+---
+
 ## Technologies & Tools
 
 <div align="center">
