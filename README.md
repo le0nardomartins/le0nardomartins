@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Focused+on+Product%2C+Performance+and+People;Technical+Excellence+with+Collaborative+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 ---
 
-## 💼 Professional Profile
+## Professional Profile
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 <div align="justify">
 
-Hello! 👋 I'm **Leonardo Martins**, a **Full Stack Developer** focused on building modern, scalable, and outcome-driven digital solutions.
+I'm **Leonardo Martins**, a **Full Stack Developer** focused on building modern, scalable, and outcome-driven digital solutions.
 
 I design and develop web applications with solid architecture, clean code, and strong attention to user experience. I work across frontend and backend, delivering reliable, maintainable, and performance-oriented products.
 
@@ -30,7 +30,7 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
-## 🤝 What I Bring to a Team
+## What I Bring to a Team
 
 <div align="justify">
 
@@ -44,7 +44,7 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
@@ -62,7 +62,7 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
-## 🎯 Contributions
+## Contributions
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I bring a continuous improvement mindset, clear communication, and effective col
 
 ---
 
-## ✅ Professional Goal
+## Professional Goal
 
 <div align="justify">
 
