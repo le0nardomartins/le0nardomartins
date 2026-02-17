@@ -48,11 +48,21 @@ Trazendo mentalidade de melhoria contínua, comunicação clara e colaboração 
 
 <div align="justify">
 
+### Magic Mirror
+Espelho inteligente que envelhece a pessoa com base nos hábitos dela, projetando como ela estará em 30 anos. Projeto apresentado no evento **FutureFest da FIAP**, onde teve mais de 1000 usuários e recebeu diversas propostas de compra.
+
+**Stack Tecnológica:** IA • Machine Learning • Visão Computacional • Hardware  
+**Evento:** FutureFest FIAP  
+**Usuários:** 1000+  
+**Status:** Concluído
+
+---
+
 ### Assistente Lumina
 Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho. Sistema completo para análise e prevenção de acidentes, oferecendo insights inteligentes e recomendações para melhorar a segurança no ambiente de trabalho.
 
 **Stack Tecnológica:** IA • Machine Learning • Backend • Banco de Dados  
-**Status:** Em Produção
+**Status:** Concluído
 
 ---
 
@@ -61,7 +71,7 @@ Aplicativo desenvolvido para um cliente pela minha agência de código **SnowDiv
 
 **Stack Tecnológica:** Mobile • Backend • API • Banco de Dados  
 **Desenvolvido por:** SnowDive  
-**Status:** Concluído
+**Status:** Em Desenvolvimento
 
 </div>
 
