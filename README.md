@@ -49,11 +49,10 @@ Trazendo mentalidade de melhoria contínua, comunicação clara e colaboração 
 <div align="justify">
 
 ### Magic Mirror
-Espelho inteligente que envelhece a pessoa com base nos hábitos dela, projetando como ela estará em 30 anos. Projeto apresentado no evento **FutureFest da FIAP**, onde teve mais de 1000 usuários e recebeu diversas propostas de compra.
+Espelho inteligente que envelhece a pessoa com base nos hábitos dela, projetando como ela estará em 30 anos. Projeto apresentado no evento **Future Fest da FIAP**, onde estiveram presentes centenas de usuários.
 
-**Stack Tecnológica:** IA • Machine Learning • Visão Computacional • Hardware  
-**Evento:** FutureFest FIAP  
-**Usuários:** 1000+  
+**Stack Tecnológica:** IA • Desenvolvimento Web • React 
+**Evento:** Future Fest FIAP 
 **Status:** Concluído
 
 ---
@@ -61,7 +60,7 @@ Espelho inteligente que envelhece a pessoa com base nos hábitos dela, projetand
 ### Assistente Lumina
 Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho. Sistema completo para análise e prevenção de acidentes, oferecendo insights inteligentes e recomendações para melhorar a segurança no ambiente de trabalho.
 
-**Stack Tecnológica:** IA • Machine Learning • Backend • Banco de Dados  
+**Stack Tecnológica:** IA • FrontEnd • BackEnd • Banco de Dados  
 **Status:** Concluído
 
 ---
