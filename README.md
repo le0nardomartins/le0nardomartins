@@ -63,15 +63,6 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
 **Stack Tecnológica:** IA • FrontEnd • BackEnd • Banco de Dados  
 **Status:** Concluído
 
----
-
-### MaisUm
-Aplicativo desenvolvido para um cliente pela minha agência de código **SnowDive**. Plataforma para pessoas se encontrarem e praticarem esportes, conectando atletas e entusiastas de atividades físicas.
-
-**Stack Tecnológica:** Mobile • Backend • API • Banco de Dados  
-**Desenvolvido por:** SnowDive  
-**Status:** Em Desenvolvimento
-
 </div>
 
 ---
