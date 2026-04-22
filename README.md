@@ -7,9 +7,6 @@
 </div>
 
 ---
-
-## Perfil Profissional
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=le0nardomartins&color=00d4ff&style=for-the-badge&label=VIEWS)
