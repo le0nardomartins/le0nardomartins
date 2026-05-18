@@ -1,14 +1,14 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=200&section=header&text=Leonardo%20Martins&fontSize=42&fontColor=fff&fontAlignY=32&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/README-PT--BR-00d4ff?style=for-the-badge" alt="README em Portugues" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/README-PT--BR-00d4ff?style=for-the-badge" alt="README in Portuguese" /></a>
   <a href="./README_en.md"><img src="https://img.shields.io/badge/README-EN-00ff88?style=for-the-badge" alt="README in English" /></a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Construindo+Solu%C3%A7%C3%B5es+Web+Modernas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,58 +22,56 @@
 
 <div align="justify">
 
-Sou **Leonardo Martins**, **Desenvolvedor Full Stack** focado em construir soluções digitais modernas, escaláveis e orientadas a resultados.
+I am **Leonardo Martins**, a **Full Stack Developer** focused on building modern, scalable, and results-driven digital solutions.
 
-Projeto e desenvolvo aplicações web com arquitetura sólida, código limpo e forte atenção à experiência do usuário. Trabalho em frontend e backend, entregando produtos confiáveis, manuteníveis e orientados a performance.
+I design and develop web applications with solid architecture, clean code, and strong attention to user experience. I work across frontend and backend, delivering reliable, maintainable, and performance-oriented products.
 
-Trazendo mentalidade de melhoria contínua, comunicação clara e colaboração efetiva com times multidisciplinares. Valorizo responsabilidade, autonomia e entrega consistente, sempre visando impacto técnico e de negócio.
+I bring a continuous-improvement mindset, clear communication, and effective collaboration with multidisciplinary teams. I value accountability, autonomy, and consistent delivery, always aiming for technical and business impact.
 
 </div>
 
 ---
 
-## O que Levo para o Time
+## What I Bring to the Team
 
 <div align="justify">
 
-- **Mentalidade de dono:** comprometimento com qualidade, prazos e evolução contínua do produto.
-- **Comunicação forte:** alinhamento claro com engenharia, produto e stakeholders.
-- **Pensamento orientado a negócio:** foco em soluções práticas que resolvem problemas reais.
-- **Crescimento contínuo:** aprendizado consistente de tecnologias, padrões e práticas de engenharia.
-- **Colaboração profissional:** atitude proativa, respeitosa e com foco no time.
+- **Ownership mindset:** commitment to quality, deadlines, and continuous product evolution.
+- **Strong communication:** clear alignment with engineering, product, and stakeholders.
+- **Business-oriented thinking:** focus on practical solutions that solve real problems.
+- **Continuous growth:** consistent learning of technologies, patterns, and engineering practices.
+- **Professional collaboration:** proactive and respectful attitude with a team-first focus.
 
 </div>
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
 <div align="justify">
 
 ### Magic Mirror
-Espelho inteligente que envelhece a pessoa com base nos hábitos dela, projetando como ela estará em 30 anos. Projeto apresentado no evento **Future Fest da FIAP**, onde estiveram presentes centenas de usuários.
+An intelligent mirror that ages a person based on their habits, projecting how they may look in 30 years. This project was showcased at **FIAP Future Fest**, attended by hundreds of people.
 
-**Stack Tecnológica:** IA • Desenvolvimento Web • React 
-**Evento:** Future Fest FIAP 
-**Status:** Concluído
+**Tech Stack:** AI | Web Development | React
+**Event:** Future Fest FIAP
+**Status:** Completed
 
 ---
 
-### Assistente Lumina
-Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho. Sistema completo para análise e prevenção de acidentes, oferecendo insights inteligentes e recomendações para melhorar a segurança no ambiente de trabalho.
+### Lumina Assistant
+An AI assistant for Human Resources focused on NR1 and workplace safety. A complete system for accident analysis and prevention, providing intelligent insights and recommendations to improve safety in work environments.
 
-**Stack Tecnológica:** IA • FrontEnd • BackEnd • Banco de Dados  
-**Status:** Concluído
+**Tech Stack:** AI | Frontend | Backend | Databases
+**Status:** Completed
 
 </div>
 
 ---
 
-
-
 <div align="center">
 
-## Conquistas FIAP
+## FIAP Achievements
 
 </div>
 
@@ -97,7 +95,7 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
   <br />
   <br />
 
-  <img src="https://img.shields.io/badge/Nano%20Courses-9%20Badges%20Oficiais-ED145B?style=for-the-badge" alt="9 FIAP Nano Courses oficiais" />
+  <img src="https://img.shields.io/badge/Nano%20Courses-9%20Official%20Badges-ED145B?style=for-the-badge" alt="9 official FIAP Nano Courses badges" />
   </div>
 
 </details>
@@ -110,10 +108,10 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
     <img src="https://fiap-achievements.vercel.app/api/badge?theme=light&badge=gs&year=2025&topic=future-of-work" width="110" alt="FIAP Global Solution 2025 - Future of Work" />
   </div>
 </details>
-</div>
+
 ---
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
@@ -131,7 +129,7 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
 
 ---
 
-## Contribuições
+## Contributions
 
 <div align="center">
 
@@ -141,7 +139,7 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
 
 ---
 
-## Conecte-se Comigo
+## Connect with Me
 
 <div align="center">
 
@@ -165,11 +163,11 @@ Assistente de IA para recursos humanos com foco em NR1 e segurança do trabalho.
 
 ---
 
-## Objetivo Profissional
+## Professional Goal
 
 <div align="justify">
 
-Busco oportunidades como **Desenvolvedor**, contribuindo com excelência técnica, mentalidade de produto e execução colaborativa para construir soluções digitais robustas e de alto impacto.
+I am seeking opportunities as a **Developer**, contributing technical excellence, product mindset, and collaborative execution to build robust, high-impact digital solutions.
 
 </div>
 
@@ -177,7 +175,7 @@ Busco oportunidades como **Desenvolvedor**, contribuindo com excelência técnic
 
 <div align="center">
 
-  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">Obrigado por visitar meu perfil. Se meu perfil corresponde às necessidades da sua equipe, vamos conversar.</p>
+  <p style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">Thanks for visiting my profile. If my background matches your team needs, let us connect.</p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00d4ff&height=100&section=footer&fontSize=0&animation=twinkling"/>
 
