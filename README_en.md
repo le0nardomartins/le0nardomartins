@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/README-%F0%9F%87%A7%F0%9F%87%B7%20PT--BR-00d4ff?style=for-the-badge" alt="README in Portuguese" /></a>
-  <a href="./README_en.md"><img src="https://img.shields.io/badge/README-%F0%9F%87%BA%F0%9F%87%B8%20EN-00ff88?style=for-the-badge" alt="README in English" /></a>
+  <a href="./README.md">🇧🇷 Português (PT-BR)</a> | <a href="./README_en.md">🇺🇸 English (EN)</a>
 </div>
 
 <div align="center">
