@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <a href="./README.md">🇧🇷 Português (PT-BR)</a> | <a href="./README_en.md">🇺🇸 English (EN)</a>
+  <p>
+    <strong>Language:</strong>
+    <a href="./README.md">🇧🇷 Português (PT-BR)</a>
+    &nbsp;•&nbsp;
+    <a href="./README_en.md">🇺🇸 English (EN)</a>
+  </p>
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Solutions" alt="Typing SVG" />
