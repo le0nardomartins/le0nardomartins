@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/README-PT--BR-00d4ff?style=for-the-badge" alt="README in Portuguese" /></a>
-  <a href="./README_en.md"><img src="https://img.shields.io/badge/README-EN-00ff88?style=for-the-badge" alt="README in English" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/README-%F0%9F%87%A7%F0%9F%87%B7%20PT--BR-00d4ff?style=for-the-badge" alt="README in Portuguese" /></a>
+  <a href="./README_en.md"><img src="https://img.shields.io/badge/README-%F0%9F%87%BA%F0%9F%87%B8%20EN-00ff88?style=for-the-badge" alt="README in English" /></a>
 </div>
 
 <div align="center">
@@ -82,15 +82,15 @@ An AI assistant for Human Resources focused on NR1 and workplace safety. A compl
 
   <div align="center">
 
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=370618&theme=black" width="100" alt="FIAP Nano Course - Algorithms: Learn to Program" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=dark" width="100" alt="FIAP Nano Course - Front End" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=374692&theme=light" width="100" alt="FIAP Nano Course - Game Design" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=150738&theme=black" width="100" alt="FIAP Nano Course - Game Engines" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=370618&theme=dark" width="100" alt="FIAP Nano Course - Algorithms: Learn to Program" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=light" width="100" alt="FIAP Nano Course - Front End" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=374692&theme=black" width="100" alt="FIAP Nano Course - Game Design" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=150738&theme=light" width="100" alt="FIAP Nano Course - Game Engines" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=149382&theme=dark" width="100" alt="FIAP Nano Course - Level Design" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=179458&theme=light" width="100" alt="FIAP Nano Course - Metaverse, Digital Twins and Blockchain" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=914502&theme=black" width="100" alt="FIAP Nano Course - Sensors and Digital Circuits" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=561239&theme=dark" width="100" alt="FIAP Nano Course - Web Programming" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=736418&theme=light" width="100" alt="FIAP Nano Course - Python" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=179458&theme=black" width="100" alt="FIAP Nano Course - Metaverse, Digital Twins and Blockchain" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=914502&theme=light" width="100" alt="FIAP Nano Course - Sensors and Digital Circuits" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=561239&theme=black" width="100" alt="FIAP Nano Course - Web Programming" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=736418&theme=dark" width="100" alt="FIAP Nano Course - Python" />
 
   <br />
   <br />
@@ -100,7 +100,7 @@ An AI assistant for Human Resources focused on NR1 and workplace safety. A compl
 
 </details>
 
-<details>
+<details open>
   <summary><strong>Global Solutions</strong></summary>
   <br/>
 
@@ -108,8 +108,6 @@ An AI assistant for Human Resources focused on NR1 and workplace safety. A compl
     <img src="https://fiap-achievements.vercel.app/api/badge?theme=light&badge=gs&year=2025&topic=future-of-work" width="110" alt="FIAP Global Solution 2025 - Future of Work" />
   </div>
 </details>
-
----
 
 ## Technologies & Tools
 
