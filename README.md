@@ -159,7 +159,7 @@ Clientes reais, impacto real: desempenho, otimização e escalabilidade. Com **e
 Busco oportunidades como **Desenvolvedor**, levando excelência técnica, mentalidade de produto e execução colaborativa. Trabalho com **mentalidade de dono**, comunicação clara com engenharia, produto e stakeholders, e foco em soluções que resolvem problemas reais.
 
 <p align="center">
-  <a href="mailto:contato@leonardomartins.dev"><img src="https://img.shields.io/badge/contato%40leonardomartins.dev-0c0b12?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+  <a href="mailto:leonardomartins140124@gmail.com"><img src="https://img.shields.io/badge/contato%40leonardomartins.dev-0c0b12?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/leonardomartinscunha/"><img src="https://img.shields.io/badge/LinkedIn-0c0b12?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
   <a href="https://www.leonardomartins.dev/tech"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0c0b12?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfólio" /></a>
   <a href="https://snowdivegroup.com/"><img src="https://img.shields.io/badge/Snow%20Dive%20Group-0c0b12?style=for-the-badge&logo=icloud&logoColor=a855f7" alt="Snow Dive Group" /></a>
